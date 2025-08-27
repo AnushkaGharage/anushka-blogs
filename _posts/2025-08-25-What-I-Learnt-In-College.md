@@ -3,47 +3,22 @@
 College is supposed to be “the best four years of your life.” And honestly, sometimes it was… sometimes it wasn’t. Between late-night grind, last-minute submissions, unexpected failures, and those rare golden wins, I came out with more lessons than grades🤌.
 
 
-### 1. Failure is Part of the Deal
+### 1. Failures, CGPA & What Really Matters
 If you haven’t failed in college, did you even go to college? 😂
 Whether it’s flunking a test, messing up a presentation, or not getting into a club you wanted, failure is kind of like the unofficial syllabus.
 
-I still remember my very first semester. I failed my BEEE end-sem exam. My very first ‘F’ in life. I won’t lie, I cried. Like full-on, “my life is over” crying. Looking back now, it’s funny because that subject has literally *zero* relevance to my future. But at that time, it felt like the end of the world.
-Fast forward to my fourth semester, I failed again. This time it was *COA* (Computer Organization & Architecture). But here’s the difference: I didn’t cry, I didn’t even feel bad after the exam. I just shrugged, started prepping for the makeup exam, and guess what? I scored a decent 7 and actually understood the subject better while studying for the makeup than I did during the actual semester.
-You just realize there are far more greater failures in life than just an F in college. A single F isn’t that fatal.
+I still remember my very first semester—I failed my BEEE end-sem exam. My very first ‘F’ in life. I won’t lie, I cried. Like full-on, “my life is over” crying. Looking back now, it’s funny, but at that time, it felt like the end of the world. Fast forward to my fourth semester, I failed again. This time it was COA (Computer Organization & Architecture). But here’s the difference: I didn’t cry, I just started prepping for the makeup exam, and guess what? I scored decent and actually understood the subject better while studying for the makeup than I did during the actual semester.
+Over time you realize there are far greater failures in life than just an F in college. Sometimes you fail because you genuinely didn’t prepare enough, but sometimes it’s because life gets heavy—maybe you’re dealing with personal struggles, grief, or simply too much at once. Either way, a single F isn’t that fatal. 
+(Failing in 1–2 subjects is okay, but if you’re failing 4 subjects every semester, you might need real help🙂.)
 
-👉 Failing in 1-2 subjects is okay, but if you fail 4 subjects every sem, you need help, really🙂.
+And then there’s CGPA. Honestly, it’s not a personality trait. Just because someone has a higher pointer doesn’t mean they’re a genius, and a low GPA doesn’t mean you’re dumb. It just means some people are better at cramming or writing 10 pages with “strategically large handwriting.” That’s jugaad—it works for exams, but in the real world, filler doesn’t get you far. I always preferred writing answers that were relevant and to the point, even if that meant fewer marks. At least I walked away actually understanding something.
 
+But the biggest realization? Grades and failures are just one side of college. The real game is balance—choosing what actually matters. In school, I thought grinding 24/7 was the only way to succeed. By the time I got to college, I realized saying “yes” to everything meant saying “no” to experiences that actually shaped me. So I made time for internship, projects, friends, and things that made me happy. That’s where I grew the most—not just as a student, but as a person.
 
-### 2. CGPA is Not a Personality Trait
-One of the biggest traps in college is comparing marks. “Oh, they’ve got a 9 CGPA, they must be a genius.” Nope.🙅‍♀️
-
-What I learnt is that higher CGPA doesn’t automatically mean you’re smarter, and a low grade doesn’t mean you’re dumb. You simply can’t master an entire subject in four months, it’s unrealistic. So I learnt to **prioritize**: some subjects I just crammed for survival, and others I took time to actually understand. And that worked for me.
-
-And honestly, as much as I admire people who can write **10 pages with purposely bigger handwriting just to get more marks,** that’s jugaad. It works for semester exams, but this jugaad won’t work in real life struggles. Out there, you need actual solutions, not filler content.
-
-That’s why I always preferred writing what’s **relevant and to the point**, instead of stretching answers with nonsense. Sure, my marks didn’t always hit the ceiling, but I walked out knowing I actually understood something rather than faking it on paper.
-
-👉 High CGPA doesn’t automatically make you genius. It just means you’re better at fighting sleep the night before exams.
+👉 The real win in college is about learning how to balance, choose wisely, and make time for what actually matters.
 
 
-### 3. Make Time for What Actually Matters
-Ah yes, the dreaded 75% attendance rule. Everyone’s nightmare.  T_T
-
-Skipping a class or two won’t ruin your life, but skipping opportunities (like working on a project, joining an event, or just spending time on something you love) might.
-I realized managing my time wasn’t about attending *every* class, it was about knowing what deserved my energy.
-
-I don’t know why 9 AM classes felt so early, but there I was rushing to college, and still reaching just a minute late. And guess what? The classroom doors were closed, and I wasn’t allowed to enter. At that point, I genuinely wanted to just jump off the building.
-That one moment made me even lazier about going to class. It turned into being 15 minutes late… then 20… then thinking, “Why go at all when I can just self-study?”
-Of course, that eventually landed me a **warning letter for low attendance**. Which then flipped my mindset to: “Okay, fine. I’ll attend *every* class.”
-
-And that’s how I spent college constantly conflicted, should I really chase 75% attendance, or should I spend time on projects or events that actually mattered?
-
-👉 Attendance is important, but trust me, no one’s asking your attendance percentage in an interview, they’re asking what you *built*.
-
-(p.s. As a non-morning person, I was actually kinda proud of reaching the class just in time. But apparently, “just in time” didn’t count.)
-
-
-### 4. Internships Teach You What College Can’t
+### 2. Internships Teach You What College Can’t
 My six-month internship taught me more than my entire four years combined. Seriously.
 In college, I was used to ppts, assignments, and marks. But in my internship, I had to **actually build things that worked**.
 
@@ -58,7 +33,7 @@ College gives you the basics, but internships give you the **context**. They tea
 (p.s. The Slack notification sound still haunts me—instant mini heart attack every time it popped up!)
 
 
-### 5. The Right Study Group Changes Everything
+### 3. The Right Study Group Changes Everything
 This one’s underrated. I’m not talking about the usual “let’s hang out and gossip” squad (you’ll find them everywhere), but a **real study group,** the kind that shares tech stuff, debates project ideas, and actually helps you grow. 🫡
 
 I wasn’t part of some formal “we meet every Friday with notes” kind of setup. But I did have a few classmates with whom I’d talk about new tech updates, their projects, and ideas floating around.
@@ -71,7 +46,7 @@ Having that circle of curious people kept me sharp, and honestly, it shaped my a
 ### Looking Back
 College wasn’t perfect, it was messy, confusing, and sometimes frustrating. But it taught me things I couldn’t have learnt otherwise: how to fail, how to adapt, how to value time, and most importantly, how to keep learning even outside the classroom.
 
-In the end, a degree is just a piece of paper. The real takeaway is the **stories you collect and the skills you build** along the way. That’s what sticks.
+The real takeaway is the **stories you collect and the skills you build** along the way. That’s what sticks.
 
 👉 College doesn’t hand you all the answers, it just teaches you how to keep asking the right questions.
 
